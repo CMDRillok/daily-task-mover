@@ -1,0 +1,9 @@
+{
+  "id": "daily-task-mover",
+  "name": "Daily Task Mover",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Переносит задачи с датой в соответствующую ежедневную заметку.",
+  "author": "local",
+  "isDesktopOnly": false
+}

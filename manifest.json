@@ -1,9 +1,9 @@
 {
   "id": "daily-task-mover",
   "name": "Daily Task Mover",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "1.5.0",
-  "description": "Переносит задачи с датой в соответствующую ежедневную заметку.",
+  "description": "Двусторонне синхронизирует задачи с датой между блокнотом и ежедневными заметками.",
   "author": "CMDRillok",
   "authorUrl": "https://github.com/CMDRillok",
   "isDesktopOnly": false
